@@ -83,3 +83,4 @@ Tokyo - TokyoStore3 - Tokyo Store 3
 New York - bwb_S0-ATU-958 - Short Stories from the New York
 New York - bwb_Y0-DCL-531 - The New York Times COOK BOOK
 Egypt - bwb_S0-AWS-054 - A Passage to Egypt : The Life of Lucie Duff Gordon
+Egypt - marsot.-1995-women-men-egypt - Marsot. 1995 Women Men Egypt
