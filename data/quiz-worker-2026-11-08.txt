@@ -88,3 +88,6 @@ A: Poincaré conjecture - Science: Mathematics
 Auto Quiz - Village 🧠
 Q: What is the name of the town in which Lily and James Potter are buried?
 A: Godric's Hollow - Entertainment: Books
+Auto Quiz - City 🧠
+Q: Which of the following rings from the DC Comics' "Lantern Corps" are classified as Parasitic?
+A: Indigo (Compassion) - Entertainment: Comics
