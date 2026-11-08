@@ -34,3 +34,6 @@ A: Edinburgh - Geography
 Auto Quiz - Festival 🧠
 Q: Which mountain has the highest peak in Australia?
 A: Mount Kosciuszko, New South Wales - General Knowledge
+Auto Quiz - Marriage 🧠
+Q: What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?
+A: Dunning-Kruger effect - Science & Nature
