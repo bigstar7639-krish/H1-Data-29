@@ -49,3 +49,6 @@ A: Justin Bieber - Entertainment: Music
 Auto Quiz - Dream 🧠
 Q: Who is the star of the AMC series Breaking Bad?
 A: Walter White - Entertainment: Television
+Auto Quiz - Success 🧠
+Q: In the Black Mirror episode "Bandersnatch", PAC-MAN stands for:
+A: Program And Control Man - Entertainment: Television
