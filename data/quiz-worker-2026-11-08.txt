@@ -31,3 +31,6 @@ A: 1904 - Sports
 Auto Quiz - Culture 🧠
 Q: What is the capital of Scotland?
 A: Edinburgh - Geography
+Auto Quiz - Festival 🧠
+Q: Which mountain has the highest peak in Australia?
+A: Mount Kosciuszko, New South Wales - General Knowledge
