@@ -16,3 +16,6 @@ A: Redundant Array of Independent Disks - Science: Computers
 Auto Quiz - Fashion 🧠
 Q: Which of the following dice is not a platonic solid?
 A: 10-sided die - Science: Mathematics
+Auto Quiz - Game 🧠
+Q: When was the Gregorian Calendar first adopted?
+A: 1582 - History
