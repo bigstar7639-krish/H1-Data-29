@@ -13,3 +13,15 @@ Sun - A Thousand Splendid Suns
 Bird - I Know Why the Caged Bird Sings
 Bird - Bird by Bird
 Bird - The Thorn Birds
+Animal - Animal Farm
+Animal - Animal Farm / Nineteen Eighty-Four
+Animal - The social animal
+Baby - Baby Einstein
+Baby - Semilla del Diablo
+Baby - Owl Babies
+Teacher - An Expert Teacher
+Teacher - My Teacher Is an Alien
+Teacher - Lies My Teacher Told Me
+Student - The students' companion
+Student - Summarized and Analyzed
+Student - Fundamentals Of Electricity And Magnetism
